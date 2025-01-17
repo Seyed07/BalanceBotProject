@@ -20,10 +20,12 @@ The robot's frame is built using three lightweight plates, which house the core 
 
 ## **L298N Motor Driver**
 - The **L298N** motor driver controls the direction and speed of the **DC motors**, translating the signals from the **Arduino UNO** into movement.
+- 
 ![Motor Driver](images/L298N.png)
 
 ## **2x 25GA 330RPM DC Motors**
 - The **DC motors** drive the wheels of the robot, allowing it to move, balance, and adjust its position as needed.
+- 
 <img src="images/photo_۲۰۲۴-۱۲-۲۳_۱۵-۳۸-۲۹.jpg" alt="DC Motors" width="300" height="300">
 
 ## MPU6050 Sensor
