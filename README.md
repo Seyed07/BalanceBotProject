@@ -5,9 +5,9 @@ This project is about building a **two-wheeled balancing robot** using **Arduino
 <!-- Display Image -->
 <img src="images/Real_robot.jpg" alt="DC Motors" width="700" height="400">
 
+## Display Video
+-To view the video of the robot in action, please refer to the file in the 'images' folder. 
 <!-- Display Video -->
-## Robot Video
-[![Robot Video](images/Real_robot.jpg)](images/gif.mp4)
 
 
 ## Structure of the Robot
