@@ -1,2 +1,2 @@
-# BalanceBotProject
-"This repository contains the design, code, and documentation for a two-wheeled balancing robot using sensors and motor controllers."
+Arduino UNO:
+The Arduino UNO is a microcontroller board based on the ATmega328P chip, acting as the brain of the system. It executes the programmed code to control and coordinate all components. Its digital and analog I/O pins make it versatile for connecting sensors, actuators, and other electronic devices
