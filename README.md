@@ -11,7 +11,7 @@ This project is about building a **two-wheeled balancing robot** using **Arduino
 
 
 ## Structure of the Robot
-The robot's frame is built using three lightweight plates, which house the core components:
+The robot's frame is built using two lightweight plates, which house the core components:
 
 ## **Arduino UNO**
 - The **Arduino UNO** is the microcontroller that executes the robot's code. It processes sensor data, controls the motors, and ensures the robot maintains balance.
