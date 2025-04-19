@@ -1,6 +1,6 @@
 # Two-Wheeled Balancing Robot
 
-This project is about building a **two-wheeled balancing robot** using **Arduino UNO**, **L298N motor driver**, and **25GA 33RPM DC motors**. The robot is designed to maintain balance and navigate through its environment using a modular structure and control algorithms.
+This project is about building a **two-wheeled balancing robot** using **Arduino UNO**, **L298N motor driver**, and **25GA 330RPM DC motors**. The robot is designed to maintain balance and navigate through its environment using a modular structure and control algorithms.
 
 <!-- Display Image -->
 <img src="images/Real_robot.jpg" alt="DC Motors" width="700" height="400">
